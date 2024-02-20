@@ -73,8 +73,9 @@ This Terraform module provisions an EC2 instance on AWS with customizable AMI an
 
 ## Outputs
 
-This module does not output any resources.
+- `public_ip`: The public IP address of the provisioned EC2 instance.
+- `instance_type`: The type of EC2 instance provisioned.
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Tarun-Chand-Illapu](https://github.com/yourusername)
