@@ -78,4 +78,4 @@ This Terraform module provisions an EC2 instance on AWS with customizable AMI an
 
 ## Authors
 
-- [Tarun-Chand-Illapu](https://github.com/yourusername)
+- [Tarun-Chand-Illapu](https://github.com/Tarun-Chand-Illapu)
